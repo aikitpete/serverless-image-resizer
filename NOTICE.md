@@ -1,0 +1,1 @@
+This function is derived from the AWS Labs sample [serverless-image-resizing](https://github.com/awslabs/serverless-image-resizing), which is licensed under the Apache License 2.0. The Apache-2.0 terms apply to this code.
