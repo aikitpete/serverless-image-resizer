@@ -1,8 +1,8 @@
 {
   "name": "image-resize",
   "version": "1.0.0",
-  "description": "Serverless image resizing",
-  "readme": "Serverless image resizing",
+  "description": "S3 asset copy-and-redirect Lambda handler",
+  "readme": "README.md",
   "repository": "https://github.com/awslabs/serverless-image-resizing",
   "license": "Apache-2.0",
   "main": "index.js",
